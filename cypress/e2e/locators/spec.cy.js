@@ -7,7 +7,7 @@ describe("Locators", () => {
 
   // Using get(), contains(), and find()
   it("locating elements with get", () => {
-    // Get element by selecting h1 tag
+    // Get element by selecting <h1> tag
     cy.get("h1");
 
     // Get element that contains specific text
