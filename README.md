@@ -7,4 +7,4 @@
 
 Select **E2E Testing (Configured)**
 
-Select **Start E2e Testing in Chrome**
+Select **Start E2E Testing in Chrome**
