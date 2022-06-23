@@ -1,4 +1,4 @@
-// Use commands to assert
+// Aassert tests
 describe("Assert", () => {
   // Visit base url before each test
   beforeEach(() => {

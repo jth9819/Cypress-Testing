@@ -1,4 +1,4 @@
-// Use commands to interact with elements
+// Interact with elements
 describe("Interact", () => {
   // Visit base url before each test
   beforeEach(() => {

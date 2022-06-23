@@ -7,10 +7,10 @@ describe("Locators", () => {
 
   // Using get(), contains(), and find()
   it("locating elements with get", () => {
-    // Select <h1> tag
+    // Select <h1> tag using get()
     cy.get("h1");
 
-    // Select element that contains specific text
+    // Select element that contains specific text using contains()
     cy.contains(
       "This is an example app used to showcase Cypress.io testing. For a full reference of our documentation, go to docs.cypress.io"
     );
