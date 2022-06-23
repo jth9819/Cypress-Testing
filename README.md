@@ -5,5 +5,6 @@
 
 `npx cypress open`
 
-Select "E2E Testing (Configured)"
-Select "Start E2e Testing in Chrome"
+Select **E2E Testing (Configured)**
+
+Select **Start E2e Testing in Chrome**
