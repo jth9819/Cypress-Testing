@@ -14,4 +14,4 @@
 
 
 ## Location of tests
-Root folder -> cypress -> e2e
+`Root folder` -> `cypress` -> `e2e`
