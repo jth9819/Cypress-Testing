@@ -2,15 +2,15 @@
 
 
 ## Setup
-`npm install`
+1. `npm install`
 
-`npm install cypress`
+2. `npm install cypress`
 
-`npx cypress open`
+3. `npx cypress open`
 
-Select **E2E Testing (Configured)**
+4. Select **E2E Testing (Configured)**
 
-Select **Start E2E Testing in Chrome**
+5. Select **Start E2E Testing in Chrome**
 
 
 ## Location of tests
