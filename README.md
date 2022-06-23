@@ -1,5 +1,6 @@
 # Cypress Testing
 
+
 ## Setup
 `npm install`
 
@@ -10,6 +11,7 @@
 Select **E2E Testing (Configured)**
 
 Select **Start E2E Testing in Chrome**
+
 
 ## Location of tests
 Root folder -> cypress -> e2e
