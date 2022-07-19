@@ -28,11 +28,8 @@ describe("Locators", () => {
     cy.get("li").find("a").contains("get"); // Looks for list element, then finds the anchor tag, then finds text that contains "get"
   });
 
+  //you
   describe('Querying using Within()', () => {
-    // Visit base url before each test
-    beforeEach(() => {
-      cy.visit("/");
-    });
 
     it('Find Email / Password inputs', () => {
       //need xpath plugin installed and set up to use the cy.xpath function
@@ -46,5 +43,5 @@ describe("Locators", () => {
               .should('have.attr', 'placeholder', 'Password')
         })
     })
-})
+  })
 });

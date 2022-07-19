@@ -52,6 +52,7 @@ context('Interactions', () => {
 
         cy.get('.connectors-div')
           .should('be.hidden')
+          //invoke the show function on the element. show looks for html/css attributes to switch from hidden to visible
           .invoke('show')
           .should('be.visible')
     })
